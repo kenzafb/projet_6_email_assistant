@@ -6,7 +6,7 @@ Construit avec [Ollama](https://ollama.com), [Mistral 7B](https://ollama.com/lib
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - 🔍 **Surveillance automatique** — vérifie les nouveaux emails toutes les X minutes (configurable)
 - 🤖 **Classification IA** — distingue les emails simples, complexes et les notifications inutiles
@@ -19,7 +19,7 @@ Construit avec [Ollama](https://ollama.com), [Mistral 7B](https://ollama.com/lib
 
 ---
 
-## 🛠️ Prérequis
+## Prérequis
 
 - Python 3.10+
 - [Ollama](https://ollama.com/download) installé et lancé
@@ -28,7 +28,7 @@ Construit avec [Ollama](https://ollama.com), [Mistral 7B](https://ollama.com/lib
 
 ---
 
-## 🚀 Installation
+## Installation
 
 **1. Cloner le projet**
 ```bash
@@ -82,7 +82,7 @@ http://localhost:5001
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Toute la configuration se fait dans le fichier `.env` :
 
@@ -95,7 +95,7 @@ Toute la configuration se fait dans le fichier `.env` :
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ```
 Nouvel email reçu
@@ -115,7 +115,7 @@ envoyée  → validation
 
 ---
 
-## 🗂️ Structure du projet
+## Structure du projet
 
 ```
 email_assistant/
